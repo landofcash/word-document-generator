@@ -5,7 +5,8 @@ import FormInput from '@/components/FormInput.vue';
 import CityDropdown from '@/components/CityDropdown.vue';
 
 // API Base URL
-const apiBaseUrl = 'https://localhost:7121';
+//const apiBaseUrl = 'https://localhost:7121';
+const apiBaseUrl = 'https://wordgeneratorapi-arbpbtbxdrgwgtdu.canadacentral-01.azurewebsites.net/';
 
 // Form fields
 const formData = ref({

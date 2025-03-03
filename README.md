@@ -5,8 +5,8 @@ Word Document Generator is a Vue 3 application built with Vite, Tailwind CSS, an
 It allows users to fill the form and download the generated word document with their data.
 The backend API is c# .net 9 app hosted on Azure.
 
-## [🌐 Demo 👀](https://landofcash.github.io/pine-straw-calculator/)
-Check out the live demo: [👀 Word Document Generator 👀](https://landofcash.github.io/pine-straw-calculator/)
+## [🌐 Demo 👀](https://landofcash.github.io/word-document-generator/)
+Check out the live demo: [👀 Word Document Generator 👀](https://landofcash.github.io/word-document-generator/)
 
 ## Features
 - Uses Vue 3 with Vite for fast performance
