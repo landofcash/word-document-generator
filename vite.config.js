@@ -11,7 +11,7 @@ export default defineConfig({
       vue(),
       vueDevTools(),
       tailwindcss(),],
-  base: '/pine-straw-calculator/',
+  base: '/word-document-generator/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
